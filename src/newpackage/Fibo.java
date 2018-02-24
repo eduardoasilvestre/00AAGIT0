@@ -11,9 +11,10 @@ package newpackage;
  * @author EDYA
  */
 public class Fibo {
-    //FAZENDO UMA MUDANÇA NO FIBONACCI DE BOBEIRA
+    //GITHUB: DO GITHUB PARA O NETBEANS
+    //NETBEANS: DO NETBEANS PARA O GITHUB
     /*static*/
-    int fibo(int x) {
+    int fibo(int n) {
          if (n == 0) {
             return 0;
          } else if (n == 1) {
