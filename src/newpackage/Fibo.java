@@ -11,8 +11,9 @@ package newpackage;
  * @author EDYA
  */
 public class Fibo {
+    //FAZENDO UMA MUDANÇA NO FIBONACCI DE BOBEIRA
     /*static*/
-    int fibo(int n) {
+    int fibo(int x) {
          if (n == 0) {
             return 0;
          } else if (n == 1) {
