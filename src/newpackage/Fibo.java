@@ -22,6 +22,10 @@ public class Fibo {
             return fibo(n-1) + fibo (n-2);
         }
     }
+	int soma(int a, int b) {
+			return (a+b);
+		
+	}
     public static void main(String[] args) {
         Fibo f = new Fibo();
         System.out.println(f.fibo(6));
